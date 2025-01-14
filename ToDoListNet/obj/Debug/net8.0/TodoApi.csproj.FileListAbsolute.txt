@@ -150,10 +150,6 @@ C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Tod
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\TodoApi.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\TodoApi.pdb
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Humanizer.dll
-C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\System.Web.Cors.dll
-C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\System.Net.Http.Formatting.dll
-C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\System.Web.Http.dll
-C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\System.Web.Http.Cors.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -179,8 +175,6 @@ C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Mic
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -284,3 +278,4 @@ C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\obj\Debug\net8.0\ref
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\obj\Debug\net8.0\TodoApi.pdb
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\owner\Desktop\פרקטיקוד\TodoApi\ToDoListNet\obj\Debug\net8.0\TodoApi.sourcelink.json

@@ -118,6 +118,7 @@ app.MapDelete("/items/{id}", async (int id, TodoService todoService) =>
     return Results.Ok($"The user {id} deleted");
 });
 
+app.MapGet("/", () => "Server API is running"); 
 
 app.Run();
 
