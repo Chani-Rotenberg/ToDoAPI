@@ -1,9 +1,15 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5159'; // עדכן את ה-port לפי הצורך
-axios.defaults.baseURL = API_BASE_URL;
+// const API_BASE_URL = 'http://localhost:5159'; // עדכן את ה-port לפי הצורך
+// axios.defaults.baseURL = API_BASE_URL;
 
-const apiUrl = "http://localhost:5159"
+// const apiUrl = "http://localhost:5159"
+
+const apiUrl = process.env.REACT_APP_API_URL;
+
+axios.defaults.baseURL = "https://"+apiUrl;  // הגדרת baseURL לפי משתנה הסביבה או URL ברירת המחדל
+console.log("API Base URL:", apiUrl);
+axios.defaults.headers.common['Content-Type'] = 'application/json';
 
 axios.interceptors.response.use(
   response => response,
